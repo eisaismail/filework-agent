@@ -1,0 +1,5 @@
+Invoice ID: INV-1004
+Supplier: Alder Studio
+Date: 2026-02-27
+Currency: EUR
+Total: 600.00

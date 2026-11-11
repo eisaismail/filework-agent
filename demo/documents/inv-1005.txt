@@ -1,0 +1,5 @@
+Invoice ID: INV-1005
+Supplier: North Quay Print
+Date: 2026-04-02
+Currency: EUR
+Total: 150.75

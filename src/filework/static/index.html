@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Filework — document tasks, checked</title><link rel="stylesheet" href="/static/style.css"><script src="/static/app.js" defer></script></head>
+<body>
+<aside>
+ <a class="brand" href="/" aria-label="Filework home"><span class="brand-icon">f.</span>filework<span class="version">0.1</span></a>
+ <div class="section-label">WORKSPACE</div><div class="workspace"><span class="folder-icon">▧</span><div><strong id="workspace-name">Documents</strong><small id="file-count">Connecting…</small></div><span class="dot"></span></div>
+ <div class="section-label files-label">DOCUMENTS</div><ul id="files" class="file-list"></ul>
+ <div class="section-label history-label">RECENT TASKS</div><div id="history" class="history"></div>
+ <div class="sidebar-foot"><span class="dot"></span> Running on your computer<br><small>Documents stay read-only.<br>Reports are saved after your approval.</small></div>
+</aside>
+<main>
+ <header><span>Workspace / <strong>Invoice reports</strong></span><span class="local-badge">LOCAL WORKSPACE</span></header>
+ <div class="content">
+  <div class="eyebrow">LESS SEARCHING. MORE CHECKING.</div>
+  <h1>From a folder<br>to a finished report<span>.</span></h1>
+  <p class="intro">Find the invoices you need, check the numbers, and export a report with a source for every row.</p>
+  <form id="task-form" class="composer">
+   <label class="sr-only" for="request">What should Filework do?</label><textarea id="request" required maxlength="2000" placeholder="Total the invoices for March 2026 and prepare a CSV report." rows="3"></textarea>
+   <div class="composer-bottom"><label class="mode-label" for="mode"><span class="small-dot"></span><select id="mode"><option value="baseline">Offline baseline</option><option value="llm">LLM agent</option></select></label><button id="run" type="submit">Prepare report <span>↗</span></button></div>
+  </form>
+  <div class="examples"><span>TRY A TASK</span><button data-prompt="Total the invoices for March 2026 and prepare a CSV report.">March invoices ↗</button><button data-prompt="Create a report of all invoices.">All invoices ↗</button><button data-prompt="Find the invoices for March.">An unclear request ↗</button></div>
+  <p id="mode-note" class="mode-note">Offline baseline · No API key needed · Supports a month and year, or all invoices.</p>
+  <div id="busy" class="busy" hidden><span class="spinner"></span> Reading documents and checking invoice fields…</div>
+  <div id="error" class="error" role="alert" hidden></div>
+  <section id="result" hidden aria-live="polite">
+   <div class="result-heading"><div><div class="eyebrow">TASK RESULT</div><h2 id="result-title">Report preview</h2></div><span id="status" class="status"></span></div>
+   <p id="answer"></p><p id="scope" class="mode-note"></p><div id="totals" class="totals"></div>
+   <div id="warnings" class="warnings"></div>
+   <div id="table-wrap" class="table-wrap"><table><thead><tr><th>Invoice</th><th>Supplier</th><th>Date</th><th>Amount</th><th>Source</th></tr></thead><tbody id="rows"></tbody></table></div>
+   <div class="report-actions"><span id="report-note"></span><button id="approve" type="button" hidden>Approve & save CSV ↗</button><a id="download" class="download" hidden>Download CSV ↗</a></div>
+   <details open><summary>Activity & evidence <span id="steps-count"></span></summary><ol id="events"></ol></details>
+   <div id="metrics" class="metrics"></div>
+  </section>
+  <div id="empty" class="empty-state"><div class="empty-mark">↳</div><div><strong>Every number has a paper trail.</strong><p>See the files used, duplicate copies removed, and anything that needs a second look.</p></div></div>
+  <footer>Small tools. Explicit evidence. <span>Built for invoice work, with limits you can inspect.</span></footer>
+ </div>
+</main>
+</body></html>

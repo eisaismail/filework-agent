@@ -1,0 +1,5 @@
+Invoice ID: INV-1003
+Supplier: Cedar Hosting
+Date: 2026-03-22
+Currency: USD
+Total: 89.99

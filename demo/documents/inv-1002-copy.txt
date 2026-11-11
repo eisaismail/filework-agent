@@ -1,0 +1,5 @@
+Invoice ID: INV-1002
+Supplier: North Quay Print
+Date: 2026-03-12
+Currency: EUR
+Total: 340.00

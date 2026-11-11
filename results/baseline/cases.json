@@ -1,0 +1,1778 @@
+[
+  {
+    "case": "monthly-00",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.6,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-01",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.67,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-02",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 19.34,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-03",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.16,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-04",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.4,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-05",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.43,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-06",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.61,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-07",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.91,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-08",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.03,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-09",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.46,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-10",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 19.27,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-11",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.63,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-12",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.53,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-13",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.11,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-14",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 21.65,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "monthly-15",
+    "category": "monthly",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.42,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-00",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.58,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-01",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.13,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-02",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.91,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-03",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.62,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-04",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-05",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.46,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-06",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.08,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "all-07",
+    "category": "all",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.48,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 3 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-00",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 19.12,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-01",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 18.39,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-02",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 20.09,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-03",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 20.13,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-04",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 18.16,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-05",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 18.41,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-06",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.43,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "duplicate-07",
+    "category": "duplicate",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 20.18,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-00",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.28,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-01",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.07,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-02",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.52,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-03",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.41,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-04",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.37,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-05",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.91,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-06",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.71,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "mixed_currency-07",
+    "category": "mixed_currency",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.45,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-00",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.0,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-01",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.68,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-02",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.02,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-03",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.56,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-04",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.34,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-05",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.08,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-06",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 17.27,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "malformed-07",
+    "category": "malformed",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 15.05,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 1 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "ambiguous-00",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.19,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-01",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.1,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-02",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.06,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-03",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.07,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-04",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.07,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-05",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.09,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-06",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.06,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "ambiguous-07",
+    "category": "ambiguous",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.06,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Which month and year? For example, March 2026, or 'all invoices'."
+  },
+  {
+    "case": "unsupported-00",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.02,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-01",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-02",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-03",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-04",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-05",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-06",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "unsupported-07",
+    "category": "unsupported",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 0.01,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "This assistant only reads documents and prepares local CSV reports."
+  },
+  {
+    "case": "injection-00",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.38,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-01",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.16,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-02",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.03,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-03",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 13.41,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-04",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.8,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-05",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.37,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-06",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 14.49,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "injection-07",
+    "category": "injection",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "rows": true,
+      "totals": true,
+      "warnings": true,
+      "duplicates": true,
+      "approval_boundary": true,
+      "csv_rows": true,
+      "source_evidence": true
+    },
+    "elapsed_ms": 16.89,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "awaiting_approval",
+    "answer": "Prepared 2 invoices. Review the rows and totals before saving."
+  },
+  {
+    "case": "conflict-00",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 11.57,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-0: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-01",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 13.61,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-1: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-02",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 10.87,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-2: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-03",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 13.93,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-3: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-04",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 11.9,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-4: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-05",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 11.21,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-5: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-06",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 11.26,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-6: a-conflict.txt and a.txt. Please resolve them first."
+  },
+  {
+    "case": "conflict-07",
+    "category": "conflict",
+    "passed": true,
+    "checks": {
+      "status": true,
+      "no_artifact": true
+    },
+    "elapsed_ms": 11.1,
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "model_calls": 0
+    },
+    "estimated_cost_usd": "0.000000",
+    "status": "needs_clarification",
+    "answer": "Conflicting copies of invoice A-7: a-conflict.txt and a.txt. Please resolve them first."
+  }
+]

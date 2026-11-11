@@ -1,0 +1,50 @@
+{
+  "mode": "baseline",
+  "cases": 80,
+  "passed": 80,
+  "pass_rate": 1.0,
+  "python": "3.12.14",
+  "run_at_utc": "2026-11-11T01:42:33.636834+00:00",
+  "median_elapsed_ms": 14.76,
+  "model_calls": 0,
+  "by_category": {
+    "monthly": {
+      "passed": 16,
+      "total": 16
+    },
+    "all": {
+      "passed": 8,
+      "total": 8
+    },
+    "duplicate": {
+      "passed": 8,
+      "total": 8
+    },
+    "mixed_currency": {
+      "passed": 8,
+      "total": 8
+    },
+    "malformed": {
+      "passed": 8,
+      "total": 8
+    },
+    "ambiguous": {
+      "passed": 8,
+      "total": 8
+    },
+    "unsupported": {
+      "passed": 8,
+      "total": 8
+    },
+    "injection": {
+      "passed": 8,
+      "total": 8
+    },
+    "conflict": {
+      "passed": 8,
+      "total": 8
+    }
+  },
+  "scope": "Synthetic text fixtures; template variations. Not a real-world reliability estimate.",
+  "llm_tested": false
+}
