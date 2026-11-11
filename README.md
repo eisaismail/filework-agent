@@ -19,6 +19,8 @@ Open **http://127.0.0.1:8765**. On macOS/Linux, create the environment with `pyt
 
 The repository includes ten fictional documents. No API key is needed for the offline baseline.
 
+**Current scope:** this is a prototype for explicitly labelled invoices, not a general invoice reader. An independent check on four genuine publicly released billing documents extracted **0/4** complete records. Missing/redacted fields, unfamiliar layouts and scanned pages require manual review. See the [public-document audit](results/public-documents/README.md).
+
 Try:
 
 - `Total the invoices for March 2026 and prepare a CSV report.`
@@ -89,6 +91,8 @@ The recorded offline run passes **80/80 controlled cases** across month/year fil
 Report cases check the actual CSV fields, totals by currency, source hashes, warnings and duplicate handling. Clarification cases check that no report is prepared or written. Unit/integration tests separately exercise text PDFs, path restrictions, approval, persistence, CSV formula escaping and scripted model-tool responses.
 
 **These are generated text fixtures with repeated layouts, not a real-world accuracy estimate.** The injection cases demonstrate the tool boundary in the offline baseline; they do not prove that an LLM is immune to prompt injection. No live model benchmark is included. The adapter's tool loop is tested with scripted responses, not paid API calls.
+
+The separate [public-document audit](results/public-documents/README.md) uses unchanged pages from government disclosures plus two clearly identified publisher samples. It includes failures and distinguishes extraction coverage from correctly asking for manual review. Reproduce it with `python -m evaluation.public_audit`; this downloads public third-party PDFs into `.runtime/` and does not redistribute them.
 
 Run a separate model evaluation after configuring a provider:
 

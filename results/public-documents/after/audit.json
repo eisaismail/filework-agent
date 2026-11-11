@@ -1,0 +1,193 @@
+{
+  "summary": {
+    "documents": 6,
+    "genuine_billing_documents": 4,
+    "publisher_samples": 2,
+    "genuine_documents_extracted": 0,
+    "genuine_documents_with_visible_review": 4,
+    "genuine_documents_silently_unrecognised": 0,
+    "scope": "Convenience sample, not representative. Three genuine bills share a supplier; some fields are redacted. Source PDFs are not redistributed."
+  },
+  "documents": [
+    {
+      "id": "jersey-december-2024",
+      "kind": "publicly_released_bill",
+      "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208261%20JE%20Invoice%20for%20JGH%20-%20Dec%202024_Redacted%2020250303.pdf",
+      "pages": [
+        1
+      ],
+      "reviewed_fields": {
+        "supplier": "Jersey Electricity plc",
+        "date": "2024-12-27",
+        "invoice_id": null,
+        "currency": null,
+        "total": "86173.74"
+      },
+      "review_note": "Invoice identifier is redacted. No explicit three-letter currency code is visible. The amount due includes GST. Do not invent missing fields.",
+      "original_sha256": "bf81407162af677ef552748fc67cdab128d0f76b062c7dcb9261140ad83123aa",
+      "selected_pdf_sha256": "bbdd7033c9d39fe6d53df20b001695da4d54feb14b158597e780540275b54b63",
+      "original_page_count": 1,
+      "outcome": "requires_review",
+      "detail": "document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "field_matches": {
+        "supplier": false,
+        "date": false,
+        "total": false
+      },
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    },
+    {
+      "id": "jersey-january-2024",
+      "kind": "publicly_released_bill",
+      "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208405%20JE%20Invoices%20redacted%2020250404.pdf",
+      "pages": [
+        1
+      ],
+      "reviewed_fields": {
+        "supplier": "Jersey Electricity plc",
+        "date": "2024-01-31",
+        "invoice_id": null,
+        "currency": null,
+        "total": "86271.75"
+      },
+      "review_note": "Selected the complete bill face, excluding the reverse-side payment instructions. Invoice number is redacted; currency is not explicit.",
+      "original_sha256": "0c77075dd6196fc3d0d3490d0f7a346baf11e9ce09997969b543b6bc9b5ae3e2",
+      "selected_pdf_sha256": "af74700a9fda202f76f5dbee3177ba1ea6cbd20b4af53bb13ce99d7d8c3525dd",
+      "original_page_count": 15,
+      "outcome": "requires_review",
+      "detail": "document.pdf: expected exactly one supplier field.",
+      "field_matches": {
+        "supplier": false,
+        "date": false,
+        "total": false
+      },
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: document.pdf: expected exactly one supplier field.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    },
+    {
+      "id": "jersey-february-2024",
+      "kind": "publicly_released_bill",
+      "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208405%20JE%20Invoices%20redacted%2020250404.pdf",
+      "pages": [
+        3
+      ],
+      "reviewed_fields": {
+        "supplier": "Jersey Electricity plc",
+        "date": "2024-02-28",
+        "invoice_id": null,
+        "currency": null,
+        "total": "86280.01"
+      },
+      "review_note": "Selected one complete invoice page from a multi-document disclosure. Invoice number is redacted; currency is not explicit.",
+      "original_sha256": "0c77075dd6196fc3d0d3490d0f7a346baf11e9ce09997969b543b6bc9b5ae3e2",
+      "selected_pdf_sha256": "90267a752b76a120bb1da7b9a29e016db93c1047abad5f12740b33a821dd264a",
+      "original_page_count": 15,
+      "outcome": "requires_review",
+      "detail": "document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "field_matches": {
+        "supplier": false,
+        "date": false,
+        "total": false
+      },
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    },
+    {
+      "id": "electoral-pitney-bowes",
+      "kind": "publicly_released_invoice_statement",
+      "url": "https://www.electoralcommission.org.uk/sites/default/files/pdf_file/Labour-Party-invoices-2-of-2.pdf",
+      "pages": [
+        3
+      ],
+      "reviewed_fields": {
+        "supplier": "Postage by Phone-Pitney Bowes Ltd",
+        "date": "2011-03-02",
+        "invoice_id": "10610077",
+        "currency": "GBP",
+        "total": "2007.20"
+      },
+      "review_note": "Scanned invoice/statement, page 1/1. Statement number is used as the visible identifier. Printed total includes account funding as well as charges; it is not all service expense. OCR is required.",
+      "original_sha256": "fffb6f2b5d4c20e70206024126693ab60ab531fd6816519ad552459ad718822b",
+      "selected_pdf_sha256": "a2f899e40ccdc61218852f9c6e9b8814d337f2c283681ddaecf375c0923d2823",
+      "original_page_count": 93,
+      "outcome": "requires_review",
+      "detail": "No readable text; scanned PDFs need OCR, which is not included.",
+      "field_matches": {
+        "supplier": false,
+        "date": false,
+        "invoice_id": false,
+        "currency": false,
+        "total": false
+      },
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: No readable text; scanned PDFs need OCR, which is not included.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    },
+    {
+      "id": "lloyds-publisher-example",
+      "kind": "publisher_sample_not_actual_transaction",
+      "url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/working-with-suppliers/getting-paid/what-to-include-on-invoice-example.pdf",
+      "pages": [
+        1
+      ],
+      "reviewed_fields": {
+        "currency": "GBP",
+        "total": "2046.00"
+      },
+      "review_note": "Annotated supplier example, not an issued customer invoice. Contains placeholder identity/date fields. Excluded from genuine-document counts.",
+      "original_sha256": "e1bf7e1ee063ee5e2987ab3c98f69d6371f79bd5c28756de47f81008c3f5fb81",
+      "selected_pdf_sha256": "3cf307135a34776e25f7a118b0e5c7eec82ee9738eda033e7bad69ffef95caa0",
+      "original_page_count": 2,
+      "outcome": "requires_review",
+      "detail": "document.pdf: expected exactly one supplier field.",
+      "field_matches": {
+        "currency": false,
+        "total": false
+      },
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: document.pdf: expected exactly one supplier field.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    },
+    {
+      "id": "payex-publisher-sample",
+      "kind": "publisher_sample_not_actual_transaction",
+      "url": "https://payex.io/wp-content/uploads/2024/01/sample-invoice.pdf",
+      "pages": [
+        1
+      ],
+      "reviewed_fields": {},
+      "review_note": "Watermarked sample, not evidence of a real transaction. Image content cannot be read with the current text-only PDF reader. Excluded from genuine-document counts.",
+      "original_sha256": "ec1f566be0c8494ff9a2043ad4e96b818f96c4d2ed4dda79d6a72e5a339b4440",
+      "selected_pdf_sha256": "a21009f00b5ecaa5b7ab4496bb842b4be17e0d40e3656f39d48d51ea1b223c94",
+      "original_page_count": 1,
+      "outcome": "requires_review",
+      "detail": "document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "field_matches": {},
+      "extracted": null,
+      "task_status": "needs_clarification",
+      "task_answer": "No invoices could be checked. Review the documents before creating a report: document.pdf: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.",
+      "report_rows": 0,
+      "visible_review": true,
+      "warning_count": 0
+    }
+  ]
+}

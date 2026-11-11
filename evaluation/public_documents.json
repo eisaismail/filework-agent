@@ -1,0 +1,50 @@
+[
+  {
+    "id": "jersey-december-2024",
+    "kind": "publicly_released_bill",
+    "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208261%20JE%20Invoice%20for%20JGH%20-%20Dec%202024_Redacted%2020250303.pdf",
+    "pages": [1],
+    "reviewed_fields": {"supplier": "Jersey Electricity plc", "date": "2024-12-27", "invoice_id": null, "currency": null, "total": "86173.74"},
+    "review_note": "Invoice identifier is redacted. No explicit three-letter currency code is visible. The amount due includes GST. Do not invent missing fields."
+  },
+  {
+    "id": "jersey-january-2024",
+    "kind": "publicly_released_bill",
+    "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208405%20JE%20Invoices%20redacted%2020250404.pdf",
+    "pages": [1],
+    "reviewed_fields": {"supplier": "Jersey Electricity plc", "date": "2024-01-31", "invoice_id": null, "currency": null, "total": "86271.75"},
+    "review_note": "Selected the complete bill face, excluding the reverse-side payment instructions. Invoice number is redacted; currency is not explicit."
+  },
+  {
+    "id": "jersey-february-2024",
+    "kind": "publicly_released_bill",
+    "url": "https://www.gov.je/Freedom%20of%20Information%20library/ID%20FOI%208405%20JE%20Invoices%20redacted%2020250404.pdf",
+    "pages": [3],
+    "reviewed_fields": {"supplier": "Jersey Electricity plc", "date": "2024-02-28", "invoice_id": null, "currency": null, "total": "86280.01"},
+    "review_note": "Selected one complete invoice page from a multi-document disclosure. Invoice number is redacted; currency is not explicit."
+  },
+  {
+    "id": "electoral-pitney-bowes",
+    "kind": "publicly_released_invoice_statement",
+    "url": "https://www.electoralcommission.org.uk/sites/default/files/pdf_file/Labour-Party-invoices-2-of-2.pdf",
+    "pages": [3],
+    "reviewed_fields": {"supplier": "Postage by Phone-Pitney Bowes Ltd", "date": "2011-03-02", "invoice_id": "10610077", "currency": "GBP", "total": "2007.20"},
+    "review_note": "Scanned invoice/statement, page 1/1. Statement number is used as the visible identifier. Printed total includes account funding as well as charges; it is not all service expense. OCR is required."
+  },
+  {
+    "id": "lloyds-publisher-example",
+    "kind": "publisher_sample_not_actual_transaction",
+    "url": "https://www.lloydsbankinggroup.com/assets/pdfs/who-we-are/working-with-suppliers/getting-paid/what-to-include-on-invoice-example.pdf",
+    "pages": [1],
+    "reviewed_fields": {"currency": "GBP", "total": "2046.00"},
+    "review_note": "Annotated supplier example, not an issued customer invoice. Contains placeholder identity/date fields. Excluded from genuine-document counts."
+  },
+  {
+    "id": "payex-publisher-sample",
+    "kind": "publisher_sample_not_actual_transaction",
+    "url": "https://payex.io/wp-content/uploads/2024/01/sample-invoice.pdf",
+    "pages": [1],
+    "reviewed_fields": {},
+    "review_note": "Watermarked sample, not evidence of a real transaction. Image content cannot be read with the current text-only PDF reader. Excluded from genuine-document counts."
+  }
+]

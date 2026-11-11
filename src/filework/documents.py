@@ -105,6 +105,8 @@ class Workspace:
     def invoice(self, name: str) -> Invoice | None:
         text = self.read(name)
         if not re.search(r"(?im)^\s*Invoice\s*(?:ID|Number|No\.?|#)\s*:", text):
+            if re.search(r"(?im)^[ \t]*(?:tax[ \t]+)?invoice(?:\s|/|$)|\binvoice[ \t]*(?:id|number|no\.?|#)", text):
+                raise DocumentError(f"{name}: invoice-like document uses an unsupported layout or has a missing/redacted identifier. Review it manually.")
             return None
         values = {}
         for key, label in FIELDS.items():

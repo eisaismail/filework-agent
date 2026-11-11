@@ -64,6 +64,22 @@ def test_formula_escaped_at_csv_boundary(workspace, tmp_path):
     assert "'=1+1" in target.read_text()
 
 
+def test_invoice_with_unfamiliar_layout_is_not_silently_dropped(workspace):
+    (workspace.root / "a.txt").write_text("TAX INVOICE\nVendor: Example\nAmount due: 15.00\n")
+    task = run("all invoices", workspace)
+    assert task["status"] == "needs_clarification"
+    assert task["proposal"] is None
+    assert "unsupported layout" in task["answer"]
+
+
+def test_partial_report_warns_about_unfamiliar_invoice(workspace):
+    (workspace.root / "other.txt").write_text("Invoice No.: [redacted]\nAmount due: 25.00\n")
+    task = run("all invoices", workspace)
+    assert task["status"] == "awaiting_approval"
+    assert len(task["proposal"]["rows"]) == 1
+    assert len(task["proposal"]["warnings"]) == 1
+
+
 @pytest.mark.parametrize("prompt", ["March invoices", "invoices for last month", "delete all invoices", "all invoices except March", "invoices before March 2026", "March 2026 invoices for Alder", "March 2026 invoices in USD"])
 def test_unclear_or_unsupported_baseline_requests_do_not_write(workspace, prompt):
     task = run(prompt, workspace)

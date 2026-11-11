@@ -101,6 +101,8 @@ class Tools:
                 continue
             seen[identity] = invoice
             rows.append(invoice.row())
+        if not rows and warnings:
+            raise Clarification("No invoices could be checked. Review the documents before creating a report: " + "; ".join(warnings))
         rows.sort(key=lambda r: (r["date"], r["supplier"], r["invoice_id"]))
         totals = defaultdict(Decimal)
         for row in rows:
